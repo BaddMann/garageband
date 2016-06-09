@@ -61,6 +61,7 @@ class Audio_Content:
                 'garageband1011.plist',
                 'garageband1012.plist',
                 'logicpro1022.plist',
+                'logicpro1023.plist',
                 ],
             '2015': [
                 'garageband1010.plist',
